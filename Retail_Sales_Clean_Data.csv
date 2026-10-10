@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Category,Product,Quantity,Unit_Price,Sales,Cost,Profit,Payment_Method,Sales_Check,Profit_Check
+ORD1001,2026-02-05,C1008,Customer 8,North,Office,Notebook,1,150,150,70,80,Credit Card,OK,OK
+ORD1002,2026-01-12,C1019,Customer 19,East,Office,Notebook,5,150,750,350,400,UPI,OK,OK
+ORD1003,2026-01-30,C1017,Customer 17,South,Electronics,Wireless Mouse,2,800,1600,1100,500,Credit Card,OK,OK
+ORD1004,2026-02-23,C1008,Customer 8,East,Office,Desk Organizer,5,600,3000,1500,1500,Debit Card,OK,OK
+ORD1005,2026-02-13,C1009,Customer 9,North,Electronics,Wireless Mouse,4,800,3200,2200,1000,Credit Card,OK,OK
+ORD1006,2026-02-18,C1004,Customer 4,West,Accessories,USB Cable,1,400,400,220,180,Debit Card,OK,OK
+ORD1007,2026-02-28,C1018,Customer 18,South,Office,Pen Set,1,250,250,120,130,Cash,OK,OK
+ORD1008,2026-03-22,C1020,Customer 20,West,Electronics,Headphones,3,1800,5400,3600,1800,Credit Card,OK,OK
+ORD1009,2026-03-26,C1008,Customer 8,West,Office,Notebook,1,150,150,70,80,UPI,OK,OK
+ORD1010,2026-02-05,C1015,Customer 15,West,Electronics,Wireless Mouse,4,800,3200,2200,1000,Credit Card,OK,OK
+ORD1011,2026-03-27,C1009,Customer 9,South,Accessories,Laptop Stand,2,1500,3000,1900,1100,Credit Card,OK,OK
+ORD1012,2026-01-21,C1015,Customer 15,East,Office,Desk Organizer,2,600,1200,600,600,Debit Card,OK,OK
+ORD1013,2026-01-29,C1011,Customer 11,South,Office,Desk Organizer,5,600,3000,1500,1500,Credit Card,OK,OK
+ORD1014,2026-02-04,C1003,Customer 3,North,Electronics,Keyboard,4,1200,4800,3200,1600,Debit Card,OK,OK
+ORD1015,2026-02-20,C1015,Customer 15,North,Electronics,Headphones,4,1800,7200,4800,2400,Debit Card,OK,OK
+ORD1016,2026-03-10,C1009,Customer 9,East,Electronics,Wireless Mouse,5,800,4000,2750,1250,UPI,OK,OK
+ORD1017,2026-03-07,C1016,Customer 16,South,Accessories,USB Cable,2,400,800,440,360,UPI,OK,OK
+ORD1018,2026-03-29,C1014,Customer 14,South,Electronics,Wireless Mouse,2,800,1600,1100,500,Cash,OK,OK
+ORD1019,2026-03-09,C1009,Customer 9,South,Accessories,Webcam,4,2200,8800,6000,2800,UPI,OK,OK
+ORD1020,2026-03-24,C1011,Customer 11,South,Office,Desk Organizer,3,600,1800,900,900,Debit Card,OK,OK
+ORD1021,2026-01-01,C1009,Customer 9,North,Accessories,USB Cable,4,400,1600,880,720,UPI,OK,OK
+ORD1022,2026-03-19,C1007,Customer 7,North,Office,Pen Set,5,250,1250,600,650,Debit Card,OK,OK
+ORD1023,2026-01-01,C1020,Customer 20,West,Electronics,Headphones,5,1800,9000,6000,3000,Cash,OK,OK
+ORD1024,2026-02-09,C1008,Customer 8,South,Electronics,Wireless Mouse,3,800,2400,1650,750,Credit Card,OK,OK
+ORD1025,2026-03-04,C1003,Customer 3,North,Office,Notebook,1,150,150,70,80,Credit Card,OK,OK
+ORD1026,2026-01-22,C1009,Customer 9,East,Office,Pen Set,5,250,1250,600,650,Credit Card,OK,OK
+ORD1027,2026-02-09,C1013,Customer 13,West,Office,Desk Organizer,2,600,1200,600,600,Cash,OK,OK
+ORD1028,2026-02-01,C1008,Customer 8,South,Office,Pen Set,1,250,250,120,130,Debit Card,OK,OK
+ORD1029,2026-01-30,C1019,Customer 19,North,Electronics,Headphones,5,1800,9000,6000,3000,UPI,OK,OK
+ORD1030,2026-01-30,C1003,Customer 3,South,Electronics,Headphones,1,1800,1800,1200,600,Debit Card,OK,OK
+ORD1031,2026-02-05,C1016,Customer 16,North,Electronics,Headphones,2,1800,3600,2400,1200,Credit Card,OK,OK
+ORD1032,2026-03-02,C1008,Customer 8,East,Office,Desk Organizer,5,600,3000,1500,1500,Cash,OK,OK
+ORD1033,2026-03-26,C1014,Customer 14,West,Electronics,Wireless Mouse,1,800,800,550,250,Cash,OK,OK
+ORD1034,2026-03-28,C1004,Customer 4,South,Accessories,Laptop Stand,1,1500,1500,950,550,Cash,OK,OK
+ORD1035,2026-02-01,C1007,Customer 7,North,Office,Pen Set,1,250,250,120,130,Cash,OK,OK
+ORD1036,2026-02-05,C1015,Customer 15,North,Electronics,Keyboard,2,1200,2400,1600,800,UPI,OK,OK
+ORD1037,2026-01-07,C1018,Customer 18,South,Accessories,Webcam,1,2200,2200,1500,700,UPI,OK,OK
+ORD1038,2026-03-04,C1016,Customer 16,North,Electronics,Wireless Mouse,4,800,3200,2200,1000,Cash,OK,OK
+ORD1039,2026-01-01,C1013,Customer 13,West,Electronics,Wireless Mouse,4,800,3200,2200,1000,Cash,OK,OK
+ORD1040,2026-03-26,C1016,Customer 16,North,Accessories,Laptop Stand,5,1500,7500,4750,2750,Credit Card,OK,OK
+ORD1041,2026-03-16,C1018,Customer 18,South,Accessories,USB Cable,1,400,400,220,180,Debit Card,OK,OK
+ORD1042,2026-03-03,C1017,Customer 17,North,Electronics,Wireless Mouse,5,800,4000,2750,1250,UPI,OK,OK
+ORD1043,2026-01-09,C1020,Customer 20,South,Office,Notebook,2,150,300,140,160,Credit Card,OK,OK
+ORD1044,2026-02-01,C1019,Customer 19,South,Accessories,USB Cable,5,400,2000,1100,900,UPI,OK,OK
+ORD1045,2026-03-14,C1017,Customer 17,West,Accessories,Webcam,5,2200,11000,7500,3500,Debit Card,OK,OK
+ORD1046,2026-01-31,C1009,Customer 9,East,Electronics,Headphones,3,1800,5400,3600,1800,Credit Card,OK,OK
+ORD1047,2026-02-28,C1011,Customer 11,South,Office,Desk Organizer,3,600,1800,900,900,UPI,OK,OK
+ORD1048,2026-01-13,C1003,Customer 3,North,Accessories,Webcam,5,2200,11000,7500,3500,Debit Card,OK,OK
+ORD1049,2026-02-01,C1012,Customer 12,West,Electronics,Keyboard,1,1200,1200,800,400,Credit Card,OK,OK
+ORD1050,2026-03-20,C1017,Customer 17,South,Accessories,Webcam,3,2200,6600,4500,2100,Debit Card,OK,OK
